@@ -46,7 +46,7 @@ FAISS 알고리즘은 Vector 간 유사도 계산을 통한 Recsys 알고리즘�
 ## 2. Limitations and Future works
 * Dataset의 부족 <br>
 \- 추천 시스템 모델의 고질적 한계 <br>
-\- 국내 여행 이미지 데이터셋의 증가 >> 모델 성능 향상 <br>
+\- 국내 여행 이미지 데이터셋의 증가 >> 모델 성능 향상 <br><br>
 * Similarity Search Trade-off <br>
 \- FAISS 유사도 계산 알고리즘의 오류 가능성: <br>
 Searching 시간은 크게 감소하지만 오류가 발생할 가능성이 존재
